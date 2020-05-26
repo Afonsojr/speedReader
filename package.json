@@ -1,0 +1,19 @@
+{
+  "name": "speedreader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sandbox.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afonsojr/speedReader.git"
+  },
+  "author": "Afonsojr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afonsojr/speedReader/issues"
+  },
+  "homepage": "https://github.com/Afonsojr/speedReader#readme"
+}
